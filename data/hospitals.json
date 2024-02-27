@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hospital A",
+    "patientCount": 100,
+    "location": "City X"
+  },
+  {
+    "name": "Hospital B",
+    "patientCount": 150,
+    "location": "City Y"
+  },
+  {
+    "name": "Hospital C",
+    "patientCount": 200,
+    "location": "City Z"
+  }
+]
